@@ -11,7 +11,6 @@ This repository contains a Python script for analyzing a retail sales dataset. T
 - [Analysis](#analysis)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
